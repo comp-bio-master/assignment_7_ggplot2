@@ -18,7 +18,7 @@
 
 	* [Mind Expander 9.6](https://forms.office.com/Pages/ResponsePage.aspx?id=8frLNKZngUepylFOslULZlFZdbyVx8RLiPt1GobhHnlURDFBNlc2UFFEOVJVMEpaWVZJWkJJNEc1US4u)
 
-2. Complete the questions in [`assignment_7.R`](assignment_7.R)
+2. Complete the questions in [`assignment_7_students.R`](assignment_7_students.R)
 
 	* These are based on [R for Data Science](https://r4ds.had.co.nz/) Ch 3
 	
