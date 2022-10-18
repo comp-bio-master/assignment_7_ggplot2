@@ -18,7 +18,7 @@
 
 	* [Mind Expander 9.6](https://forms.office.com/Pages/ResponsePage.aspx?id=8frLNKZngUepylFOslULZlFZdbyVx8RLiPt1GobhHnlURDFBNlc2UFFEOVJVMEpaWVZJWkJJNEc1US4u)
 
-2. Complete the questions in [`assignment_7_students.R`](assignment_7_students.R)
+2. Clone this repo to your computer. Open `assignment_7_students.R` in RStudio and complete the questions
 
 	* These are based on [R for Data Science](https://r4ds.had.co.nz/) Ch 3
 	
